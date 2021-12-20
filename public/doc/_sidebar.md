@@ -9,7 +9,7 @@
   - [React](https://github.com/Cusdis/sdk/tree/master/packages/react-cusdis)
   - [Vue](https://github.com/Cusdis/sdk/tree/master/packages/react-cusdis)
   - [Docsify](/integration/docsify.md)
-  - [Hugo](https://discourse.gohugo.io/t/free-and-open-source-comments-for-hugo/32940)
+  - [Hugo](/integration/hugo.md)
   - [Hexo](https://blog.cusdis.com/integate-cusdis-in-hexo)
   - [Mkdocs](/integration/mkdocs.md)
 - **Features**

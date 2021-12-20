@@ -8,7 +8,7 @@ Once you have [Python](https://www.python.org/) installed on your system, as wel
 
 ## Usage
 
-Here's the tutorial for integrating Cusdis into [Material for MkDocs] following its [comment system configuratin](https://squidfunk.github.io/mkdocs-material/setup/adding-a-comment-system/). As for other [themes](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes), you can achieve it in a similar way!
+Here's the tutorial for integrating Cusdis into [Material for MkDocs] following its [comment system configuration](https://squidfunk.github.io/mkdocs-material/setup/adding-a-comment-system/). As for other [themes](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes), you can achieve it in a similar way!
 
 ### Configure the `mkdocs.yml`
 
